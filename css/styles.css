@@ -201,7 +201,7 @@ color: var(--third-color);
 
 /*----------FOOTER-------------*/
 
-.bottom-text{
+.footer-text{
 font-weight: 400;
 font-size: 16px;
 line-height: 1.17;
@@ -212,12 +212,12 @@ color: #E7E9FC;
 .bottom{
     background: #2E2F42;
 }
-.logo-bottom{
+.logo-footer{
     font-family: var(--secondary-font);
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.33;
+    line-height: 1.17;
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
@@ -225,12 +225,12 @@ color: #E7E9FC;
     color: var(--secondary-color);
 }
 
-.logo-bottom>span{
+.logo-footer>span{
     font-family: var(--secondary-font);
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.33;
+    line-height: 1.17;
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
