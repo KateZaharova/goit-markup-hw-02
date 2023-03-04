@@ -66,6 +66,10 @@ color:var(--hover-color);
 color:var(--focus-color);
 }
 
+.address{
+    font-style: normal;
+}
+
 .address-mail{
     font-family: var(--primary-font);
     font-style: normal;
@@ -73,17 +77,17 @@ color:var(--focus-color);
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--primary-color);
+    color: var(--third-color);
 }
 
 .address-tel {
-font-family: var(--primary-font);
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: var(--primary-color);
+    font-family: var(--primary-font);
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: var(--third-color);
 }
 
 .address-mail:hover,
