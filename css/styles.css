@@ -225,7 +225,7 @@ color: #E7E9FC;
     color: var(--secondary-color);
 }
 
-.logo-bottom>span{
+.marker{
     font-family: var(--secondary-font);
     font-style: normal;
     font-weight: 800;
