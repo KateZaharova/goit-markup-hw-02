@@ -70,7 +70,7 @@ color:var(--focus-color);
     font-style: normal;
 }
 
-.address-mail{
+.address-contact{
     font-family: var(--primary-font);
     font-style: normal;
     font-weight: 400;
@@ -80,24 +80,12 @@ color:var(--focus-color);
     color: var(--third-color);
 }
 
-.address-tel {
-    font-family: var(--primary-font);
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: var(--third-color);
-}
-
-.address-mail:hover,
-.address-tel:hover{
-color:var(--secondary-color);
+.address-contact:hover{
+color:var(--hover-color);
 }   
 
-.address-mail:focus,
-.address-tel:focus{
-color: var(--secondary-color);
+.address-contact:focus{
+color: var(--focus-color);
 }
 
 /*-----HERO---------*/
